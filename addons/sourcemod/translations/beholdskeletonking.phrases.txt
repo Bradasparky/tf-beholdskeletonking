@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Create Skeleton King"
+	{
+		"#format"	"{1:t}"
+		"en"		"Set {1} as the Skeleton King."
+	}
+
+	"Stomp"
+	{
+		"en"	"Stomp"
+	}
+	
+	"Active"
+	{
+		"en"	"Active"
+	}
+	
+	"Ready!"
+	{
+		"en"	"Ready!"
+	}
+}
